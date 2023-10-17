@@ -1,0 +1,3 @@
+testenv
+main/__pycache__/
+main/test.py/
